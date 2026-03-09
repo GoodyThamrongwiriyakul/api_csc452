@@ -1,0 +1,8 @@
+{
+  "fname": "Thannob2",
+  "lname": "Aribarg2",
+  "username": "thannob2.a@gmail.com",
+  "password": "1234",
+  "avatar": "https://www.meliveco.com/users/5.png",
+  "id": 30001
+}
